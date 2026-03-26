@@ -1,5 +1,6 @@
 # suckmore
-or simply "s'more" is my configuration of suckless utilities/programs.
+or simply "s'more" is my configuration of suckless utilities/programs. <br>
+font used is [gomono nerd font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/Go-Mono.zip)
 
 ## dmenu
 <img width="708" height="65" alt="dmenu2026-03-26" src="https://github.com/user-attachments/assets/199c9439-fbd4-4b80-b26f-eb7cfaa6bf9b" /> <br>
